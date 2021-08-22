@@ -25,6 +25,7 @@
     "plugin:jest/style"
   ],
   "rules": {
+    "no-param-reassign": "off",
     "jest/prefer-strict-equal": "error",
     "jest/prefer-to-have-length": "warn",
     "import/prefer-default-export": "off",
@@ -68,6 +69,7 @@
         "prettier"
       ],
       "rules": {
+        "no-console": "off",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/no-explicit-any": "off",
         "@typescript-eslint/no-var-requires": "off",
