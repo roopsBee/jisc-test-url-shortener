@@ -89,7 +89,7 @@
         ],
         "quotes": "off",
         "@typescript-eslint/quotes": [
-          2,
+          0,
           "backtick",
           {
             "avoidEscape": true
